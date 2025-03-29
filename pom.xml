@@ -3,3 +3,4 @@
 <groupId>com.veparala.web</groupId>
 <artifactId>maven-web-application-veparala-project</artifactId>
 <packaging>war</packaging>
+</project>
