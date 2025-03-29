@@ -3,4 +3,7 @@
 <groupId>com.veparala.web</groupId>
 <artifactId>maven-web-application-veparala-project</artifactId>
 <version>1</version>
+<properties>
+    <sonar.host.url>http://http://13.232.236.46:9000/</sonar.host.url>
+    </properties>
 </project>
