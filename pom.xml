@@ -4,7 +4,7 @@
 <artifactId>maven-web-application-veparala-project</artifactId>
 <version>1</version>
 <properties>
-<sonar.host.url>http://http://13.232.236.46:9000/</sonar.host.url>
+<sonar.host.url>http://13.232.236.46:9000/</sonar.host.url>
 <jdk.version>17</jdk.version>
 <spring.version>5.1.2.RELEASE</spring.version>
 <junit.version>4.11</junit.version>
